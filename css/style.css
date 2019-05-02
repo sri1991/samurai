@@ -295,7 +295,7 @@ button:focus {
     width: 100%;
     min-height: 500px; }
     .home_banner_area .banner_inner .overlay {
-      /* background: url(../img/banner/home-banner.jpg) no-repeat scroll center center; */
+       background: url(../img/banner/bannermain.png) no-repeat scroll center center; 
       position: absolute;
       left: 0;
       right: 0;
@@ -316,7 +316,7 @@ button:focus {
         font-family: "Playfair Display", serif;
         font-weight: 900;
         margin-bottom: 70px;
-        color: black; }
+        color: white; }
       .home_banner_area .banner_inner .banner_content p {
         font-size: 14px;
         line-height: 24px;
@@ -324,7 +324,7 @@ button:focus {
         font-weight: normal;
         max-width: 620px;
         margin: auto;
-        color: black; }
+        color: white; }
       .home_banner_area .banner_inner .banner_content .main_btn {
         margin-top: 40px; }
 
@@ -3098,7 +3098,7 @@ h6 {
   margin-top: 30px; }
 
 .footer-bottom {
-  padding-top: 85px; }
+   }
   .footer-bottom .footer-text {
     color: #fff;
     opacity: .6; }
